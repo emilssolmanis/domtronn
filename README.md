@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Apparently I can submit PRs to Dom's profile now.
+
 <!--
 **domtronn/domtronn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
